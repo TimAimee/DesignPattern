@@ -19,6 +19,8 @@
 
  - 建设模式(pBuilder)
 
+ - 原型模式(pPrototype)
+
 2.结构型(structure)
 
  - 适配器模式(pAdapater)
