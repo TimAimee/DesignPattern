@@ -1,6 +1,9 @@
 package com.pattern.creat.pfactory.factory;
 
-import com.pattern.creat.pfactory.concretefactory.TrainFactory;
+import com.pattern.creat.pfactory.concrete.BicycleFactory;
+import com.pattern.creat.pfactory.concrete.CarFactory;
+import com.pattern.creat.pfactory.concrete.TrainFactory;
+import com.pattern.creat.pfactory.interfaces.Factory;
 
 /**
  * Created by TimAimee on 2017/4/16.
