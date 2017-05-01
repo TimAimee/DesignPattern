@@ -30,6 +30,8 @@
 [3.行为型(jbehavior)][4]
 
  - [命令模式(pCommand)][11]
+
+ - [命令模式(pStrategy)][12]
  
  - 待补全....
 
@@ -51,4 +53,5 @@
 
 
 [11]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pcommand
+[12]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pstrategy
  
