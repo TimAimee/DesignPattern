@@ -6,7 +6,8 @@ import com.pattern.structure.pdecorator.decorator.DecoratorA;
 import com.pattern.structure.pdecorator.decorator.DecoratorB;
 
 /**
- *  [Type-Creat] Decorator Pattern
+ * [Type-Structure] Decorator Pattern
+ *
  * Created by timaimee on 2017/4/26.
  */
 public class ClientDecorator {

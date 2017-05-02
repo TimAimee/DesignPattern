@@ -8,6 +8,7 @@ import com.pattern.creat.pbuilder.normal.concrete.BuilderTimAimee;
 
 /**
  * [Type-Create] Builder Pattern
+ *
  * Created by timaimee on 2017/4/17.
  */
 public class ClientBuilder {

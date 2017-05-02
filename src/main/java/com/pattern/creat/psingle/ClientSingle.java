@@ -4,6 +4,8 @@ import com.pattern.creat.psingle.single.SingleManage;
 import com.pattern.creat.psingle.single.SingleManager;
 
 /**
+ * [Type-Create] Single Pattern
+ *
  * Created by timaimee on 2017/4/15.
  */
 public class ClientSingle {

@@ -5,6 +5,7 @@ import com.pattern.creat.pfactory.factory.RunType;
 
 /**
  * [Type-Creat] Factory Pattern
+ *
  * Created by TimAimee on 2017/4/16.
  */
 public class ClientFactory {

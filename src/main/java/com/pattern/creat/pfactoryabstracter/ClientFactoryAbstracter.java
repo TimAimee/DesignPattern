@@ -5,6 +5,8 @@ import com.pattern.creat.pfactoryabstracter.factory.ComputerEngineer;
 import com.pattern.creat.pfactoryabstracter.factory.IntelFactory;
 
 /**
+ * [Type-Create] Abstracter Factory Pattern
+ *
  * Created by timaimee on 2017/4/19.
  */
 public class ClientFactoryAbstracter {

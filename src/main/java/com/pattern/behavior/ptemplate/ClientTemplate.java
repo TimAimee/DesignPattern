@@ -6,6 +6,7 @@ import com.pattern.behavior.ptemplate.concretes.ConcreteClass2;
 
 /**
  * [Type-Behavior] Template Pattern
+ *
  * Created by timaimee on 2017/5/2.
  */
 public class ClientTemplate {

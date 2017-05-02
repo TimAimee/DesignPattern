@@ -3,7 +3,8 @@ package com.pattern.creat.pprototy;
 import com.pattern.creat.pprototy.prototype.Person;
 
 /**
- * [创建型]原型模式 复制当前的一个对象
+ * [Type-Create]  Prototype Pattern
+ *
  * 其中复制的过程涉及到深拷贝和浅拷贝的概念
  * 深拷贝:先是拷贝对象，然后再将其内部涉及到其他对象进行拷贝
  * 浅拷贝:只是拷贝对象，而不拷贝对象内部涉及到的对旬，

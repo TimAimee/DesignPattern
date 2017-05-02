@@ -10,8 +10,8 @@ import com.pattern.structure.padapter.interfaces.DeInterface;
 import com.pattern.structure.padapter.interfaces.ZHInterface;
 
 /**
- * [结构型] 适配器模式
- * 适配
+ * [Type-Structure]  Adapter Pattern
+ *
  * Created by timaimee on 2017/4/15.
  */
 public class ClientAdapter {

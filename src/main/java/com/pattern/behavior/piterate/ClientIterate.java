@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * [Type-Behavior] Iterate Pattern
+ *
  * Created by timaimee on 2017/5/2.
  */
 public class ClientIterate {

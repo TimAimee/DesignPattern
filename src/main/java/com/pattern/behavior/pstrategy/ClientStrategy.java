@@ -6,6 +6,8 @@ import com.pattern.behavior.pstrategy.concrete.ConcreteStrategty3;
 import com.pattern.behavior.pstrategy.interfaces.pStrategy;
 
 /**
+ * [Type-Behavior] Strategy Pattern
+ *
  * Created by TimAimee on 2017/5/1.
  */
 public class ClientStrategy {
