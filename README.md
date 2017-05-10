@@ -29,6 +29,8 @@
 
  - [装饰模式(pDecorator)][14]
 
+ - [组合模式(pComposite)][17]
+
  - 待补全....
 
 [3.行为型(behavior)][4]
@@ -61,5 +63,6 @@
 [14]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pdecorator
 [15]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/piterate
 [16]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/ptemplate
+[17]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pcomposite
  
  
