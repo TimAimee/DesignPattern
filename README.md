@@ -31,6 +31,8 @@
 
  - [组合模式(pComposite)][17]
 
+ - [门面模式(pFacade][18]
+
  - 待补全....
 
 [3.行为型(behavior)][4]
@@ -42,7 +44,7 @@
  - [迭代器式(pIterate)][15]
 
  - [模板模式(pTemplate)][16]
- 
+
  - 待补全....
 
 
@@ -64,5 +66,6 @@
 [15]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/piterate
 [16]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/ptemplate
 [17]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pcomposite
+[18]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pfacade
  
  
