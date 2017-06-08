@@ -33,6 +33,10 @@
 
  - [门面模式(pFacade)][18]
 
+ - [享元模式(pflyweight)][19]
+
+ - [代理模式(pproxy)][20]
+
  - 待补全....
 
 [3.行为型(behavior)][4]
@@ -67,5 +71,7 @@
 [16]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/ptemplate
 [17]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pcomposite
 [18]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pfacade
+[19]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pflyweight
+[20]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pproxy
  
  
