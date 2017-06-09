@@ -8,7 +8,7 @@
 ---- | --- | ---
 | - [单例模式(pSingle)][5]| - [适配器模式(pAdapater)][10] | - [命令模式(pCommand)][11]
 | - [工厂模式(pFactory)][6]| - [桥接模式(pBridge)][13]| - [策略模式(pStrategy)][12]
-| - [抽象工厂(pAbstarctFactory)][7]| - [装饰模式(pDecorator)][14]| - [迭代器式(pIterate)][15]
+| - [抽象工厂(pAbsFactory)][7]| - [装饰模式(pDecorator)][14]| - [迭代器式(pIterate)][15]
 | - [建设模式(pBuilder)][8]|  - [组合模式(pComposite)][17]| - [模板模式(pTemplate)][16]
 | - [原型模式(pPrototype)][9]| - [门面模式(pFacade)][18]| - 待补全....
 |                             | - [享元模式(pflyweight)][19]|
