@@ -2,7 +2,7 @@
 
 -------
 
-|- [1.创建型(create,5种)][2]| - [2.结构型(structure,7种)][3]| - [3.行为型(behavior,9种)][4]
+| [1.创建型(create,5种)][2]|  [2.结构型(structure,7种)][3]|  [3.行为型(behavior,9种)][4]
 ---- | --- | ---
 | - [单例模式(pSingle)][5]| - [适配器模式(pAdapater)][10] | - [命令模式(pCommand)][11]
 | - [工厂模式(pFactory)][6]| - [桥接模式(pBridge)][13]| - [策略模式(pStrategy)][12]
