@@ -8,6 +8,8 @@ import com.pattern.behavior.pobserver.subject.WuZhong;
 import com.pattern.behavior.pobserver.subject.Company;
 
 /**
+ *[Type-Behavior] Observer Pattern 
+ *
  * Created by timaimee on 2017/6/13.
  */
 public class ClientObserver {
