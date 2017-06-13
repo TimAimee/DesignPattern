@@ -1,54 +1,20 @@
-[设计模式简介][1]
-
-- 设计模式(21种,3类)
-
- 1.创建型(creat,5种)
-
- 2.结构型(structure,7种)
-
- 3.行为型(behavior,9种)
+[设计模式简介(23种,3类)][1]
 
 -------
-[1.创建型(creat)][2]
 
- - [单例模式(pSingle)][5]
-
- - [工厂模式(pFactory)][6]
-
- - [抽象工厂(pAbstarctFactory)][7]
-
- - [建设模式(pBuilder)][8]
-
- - [原型模式(pPrototype)][9]
-
-[2.结构型(structure)][3]
-
- - [适配器模式(pAdapater)][10]
-
- - [桥接模式(pBridge)][13]
-
- - [装饰模式(pDecorator)][14]
-
- - [组合模式(pComposite)][17]
-
- - [门面模式(pFacade)][18]
-
- - [享元模式(pflyweight)][19]
-
- - [代理模式(pproxy)][20]
-
-[3.行为型(behavior)][4]
-
- - [命令模式(pCommand)][11]
-
- - [策略模式(pStrategy)][12]
-
- - [迭代器式(pIterate)][15]
-
- - [模板模式(pTemplate)][16]
-
- - 待补全....
-
+| [1.创建型(create,5种)][2]|  [2.结构型(structure,7种)][3]|  [3.行为型(behavior,11种)][4]
+---- | --- | ---
+| - [单例模式(pSingle)][5]| - [适配器模式(pAdapater)][10] | - [命令模式(pCommand)][11]
+| - [工厂模式(pFactory)][6]| - [桥接模式(pBridge)][13]| - [策略模式(pStrategy)][12]
+| - [抽象工厂(pAbsFactory)][7]| - [装饰模式(pDecorator)][14]| - [迭代器式(pIterate)][15]
+| - [建设模式(pBuilder)][8]|  - [组合模式(pComposite)][17]| - [模板模式(pTemplate)][16]
+| - [原型模式(pPrototype)][9]| - [门面模式(pFacade)][18]| - [责任链模式(pResponse)][21]
+|                             | - [享元模式(pflyweight)][19]|- [观察者模式(pObserver)]  
+|                             | - [代理模式(pproxy)][20]| - [状态模式(pState)] 
+|                             |   | - [备忘录模式(pMemento)] 
+|                             | | - [中介者模式(pMediator)] 
+|                             | | - [访问者模式(pVisitor)] 
+|                             | | - [解释器模式(pInterpreter)] 
 
 
 [1]:http://www.runoob.com/design-pattern/design-pattern-intro.html
@@ -71,5 +37,5 @@
 [18]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pfacade
 [19]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pflyweight
 [20]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pproxy
- 
+[21]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/presponsibility
  
