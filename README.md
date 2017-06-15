@@ -10,9 +10,6 @@
 | - [建设模式(pBuilder)][8]|  - [组合模式(pComposite)][17]| - [模板模式(pTemplate)][16]
 | - [原型模式(pPrototype)][9]| - [门面模式(pFacade)][18]| - [责任链模式(pResponse)][21]
 |                             | - [享元模式(pflyweight)][19]|- [观察者模式(pObserver)][22]  
-|                             | - [代理模式(pproxy)][20]| - [状态模式(pState)] 
-=======
-|                             | - [享元模式(pFlyweight)][19]|- [观察者模式(pObserver)][22]  
 |                             | - [代理模式(pProxy)][20]| - [状态模式(pState)][23] 
 |                             |   | - [备忘录模式(pMemento)][24] 
 |                             | | - [中介者模式(pMediator)] 
