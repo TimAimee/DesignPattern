@@ -7,6 +7,8 @@ import com.pattern.behavior.presponsibility.concrete.ZhangChong;
 import com.pattern.behavior.presponsibility.bean.RequestHoliday;
 
 /**
+ * [Type-Behavior] Responsibility Pattern 
+ *
  * Created by timaimee on 2017/6/9.
  */
 public class ClientResponsibility {

@@ -9,8 +9,13 @@
 | - [抽象工厂(pAbsFactory)][7]| - [装饰模式(pDecorator)][14]| - [迭代器式(pIterate)][15]
 | - [建设模式(pBuilder)][8]|  - [组合模式(pComposite)][17]| - [模板模式(pTemplate)][16]
 | - [原型模式(pPrototype)][9]| - [门面模式(pFacade)][18]| - [责任链模式(pResponse)][21]
+<<<<<<< HEAD
 |                             | - [享元模式(pflyweight)][19]|- [观察者模式(pObserver)][22]  
 |                             | - [代理模式(pproxy)][20]| - [状态模式(pState)] 
+=======
+|                             | - [享元模式(pFlyweight)][19]|- [观察者模式(pObserver)][22]  
+|                             | - [代理模式(pProxy)][20]| - [状态模式(pState)][23] 
+>>>>>>> 27e84260f4a53831d512cfab49bd5fd7c9f49598
 |                             |   | - [备忘录模式(pMemento)] 
 |                             | | - [中介者模式(pMediator)] 
 |                             | | - [访问者模式(pVisitor)] 
@@ -39,4 +44,8 @@
 [20]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/structure/pproxy
 [21]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/presponsibility
 [22]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pobserver
+<<<<<<< HEAD
+=======
+[23]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pstate
+>>>>>>> 27e84260f4a53831d512cfab49bd5fd7c9f49598
  
