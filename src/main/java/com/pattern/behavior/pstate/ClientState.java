@@ -3,6 +3,8 @@ package com.pattern.behavior.pstate;
 import com.pattern.behavior.pstate.manager.VoteManager;
 
 /**
+ * [Type-Behavior] State Pattern
+ *
  * Created by timaimee on 2017/6/14.
  */
 public class ClientState {
