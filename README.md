@@ -40,6 +40,6 @@
 [21]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/presponsibility
 [22]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pobserver
 [23]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pstate
-[23]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmemento
+[24]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmemento
 
  
