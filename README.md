@@ -12,7 +12,7 @@
 |                             | - [享元模式(pflyweight)][19]|- [观察者模式(pObserver)][22]  
 |                             | - [代理模式(pProxy)][20]| - [状态模式(pState)][23] 
 |                             |   | - [备忘录模式(pMemento)][24] 
-|                             | | - [中介者模式(pMediator)] 
+|                             | | - [中介者模式(pMediator)][25] 
 |                             | | - [访问者模式(pVisitor)] 
 |                             | | - [解释器模式(pInterpreter)] 
 
@@ -41,5 +41,6 @@
 [22]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pobserver
 [23]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pstate
 [24]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmemento
+[25]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmediator
 
  
