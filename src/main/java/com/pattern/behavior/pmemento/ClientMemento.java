@@ -5,6 +5,8 @@ import com.pattern.behavior.pmemento.Quangong.memento.Idea;
 import com.pattern.behavior.pmemento.Quangong.orginator.QuanGongS;
 
 /**
+ * [Type-Behavior] Memento Pattern
+ *
  * Created by timaimee on 2017/6/15.
  */
 public class ClientMemento {
