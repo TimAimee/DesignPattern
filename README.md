@@ -14,7 +14,7 @@
 |                             |   | - [备忘录模式(pMemento)][24] 
 |                             | | - [中介者模式(pMediator)][25] 
 |                             | | - [访问者模式(pVisitor)][26] 
-|                             | | - [解释器模式(pInterpreter)] 
+|                             | | - [解释器模式(pInterpreter)][27] 
 
 
 [1]:http://www.runoob.com/design-pattern/design-pattern-intro.html
@@ -43,5 +43,7 @@
 [24]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmemento
 [25]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmediator
 [26]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pvisitor
+[27]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pinterpreter
+
 
  
