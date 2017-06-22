@@ -10,6 +10,7 @@ import com.pattern.behavior.pcommand.light.LightOpenCommand;
 
 /**
  * [Type-Behavior] Command Pattern
+ *
  * 简单描述：客户 通过服务员 点了一个烤鸭  请求厨师执行
  * 主要涉及到对象有 命令发送者，命令调度者，命令执行者 抽象命令 具体命令
  * 效果：实现了命令发送者和命令执行的耦合
@@ -40,7 +41,6 @@ public class ClientCommand {
         exceutorCommand.setCommand(1, cdOpenCommand, cdCloseCommand);
         exceutorCommand.buttonWasPressedOpen(1);
         exceutorCommand.buttonWasPressedClose(1);
-
 
         exceutorCommand.undoPress();
 
