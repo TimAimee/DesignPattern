@@ -1,4 +1,4 @@
-package com.veepoo.simulatewatch.translate;
+package translate;
 
 /**
  * Created by Administrator on 2018/4/10.
