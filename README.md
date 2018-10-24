@@ -110,7 +110,6 @@
 [25]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pmediator
 [26]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pvisitor
 [27]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior/pinterpreter
-[28]:https://www.cnblogs.com/dolphin0520/p/3919839.html
-
+[28]:https://www.jianshu.com/p/807bc228dbc2
 
  
