@@ -82,7 +82,9 @@
 |                             | | - [访问者模式(pVisitor)][26] 
 |                             | | - [解释器模式(pInterpreter)][27] 
 
+## 欢迎入群交流
 
+![Head First 设计模式](https://github.com/TimAimee/DesignPattern/blob/master/1541471415784.png)
 [1]:http://www.runoob.com/design-pattern/design-pattern-intro.html
 [2]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/creat
 [3]:https://github.com/TimAimee/Pattern/tree/master/src/main/java/com/pattern/behavior
